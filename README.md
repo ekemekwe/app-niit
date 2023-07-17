@@ -1,3 +1,4 @@
 # app-niit
- Attendance & Payroll Protocol for NIIT Enugu
-live demo http://niitattendance.atwebpages.com/admin/index.php
+Attendance & Payroll Protocol for NIIT Enugu
+
+Live Demo => http://niitattendance.atwebpages.com/admin/index.php
